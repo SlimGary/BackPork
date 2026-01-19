@@ -70,3 +70,4 @@ This project is provided for educational and research purposes.
 
 - [idlesauce](https://github.com/idlesauce/) For the idea, code and support
 - [john-tornblom](https://github.com/john-tornblom) For the SDK
+- [SlimGary](https://github.com/SlimGary) For supporting me all the way through the process, for believing in me, for fixing my Xbox Series X for free, and for adding Peppa Pig to Steam. None of this would have happened without him.
